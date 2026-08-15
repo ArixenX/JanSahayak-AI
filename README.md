@@ -165,8 +165,6 @@ Provide deeper integration with trusted government resources.
 
 **[@Aritra Mondal](https://github.com/ArixenX)**
 
-Web Developer • Cybersecurity Enthusiast • Learning Red Teaming
-
 ---
 
 ## ⚠️ Disclaimer
